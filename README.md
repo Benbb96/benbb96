@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Benbb96</h1>
 <h3 align="center">A passionate full-stack developer from France</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=benbb96" alt="benbb96" /> </p>
-
 - 🔭 I’m working on [My personal website](https://github.com/Benbb96/benbb96-website)
 
 - 🌱 I’m currently learning **Vue.js**
@@ -25,6 +23,8 @@ Here are some ideas to get you started:
 - 👨‍💻 All of my projects are available at [benbb96.com](https://www.benbb96.com)
 
 - 💬 Ask me about **Django**
+
+### Technologies I use
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/>
@@ -50,7 +50,9 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benbb96&show_icons=true" alt="benbb96" /></p>
 
-<p align="center">
+### My social networks
+
+<p align="left" style="background-color: #BBB">
   <a href="https://dev.to/benbb96" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="benbb96" height="30" width="30" /></a>
   <a href="https://twitter.com/benbb96" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="benbb96" height="30" width="30" /></a>
   <a href="https://linkedin.com/in/benjamin-bernard-bouissières-9b1810a7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="benjamin-bernard-bouissières-9b1810a7" height="30" width="30" /></a>
@@ -60,3 +62,5 @@ Here are some ideas to get you started:
   <a href="https://medium.com/@benbb96" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@benbb96" height="30" width="30" /></a>
   <a href="https://www.youtube.com/c/benbb96" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="benbb96" height="30" width="30" /></a>
 </p>
+
+<p align="right"><img src="https://komarev.com/ghpvc/?username=benbb96" alt="Number of view of this profil" /></p>
