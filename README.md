@@ -24,6 +24,10 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Django**
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benbb96&layout=compact&hide=html" alt="benbb96" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=benbb96&show_icons=true" alt="benbb96" /></p>
+
 ### Technologies I use
 
 <p align="left">
@@ -40,15 +44,11 @@ Here are some ideas to get you started:
   <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40"/>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benbb96&layout=compact&hide=html" alt="benbb96" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benbb96&show_icons=true" alt="benbb96" /></p>
 
 ### My social networks
 
