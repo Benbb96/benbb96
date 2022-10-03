@@ -9,9 +9,7 @@
 
 - 💬 Ask me about **Django**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benbb96&layout=compact&hide=html" alt="benbb96" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=benbb96&show_icons=true" alt="benbb96" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=benbb96&show_icons=true&theme=dark" alt="benbb96" />
 
 ### Technologies I use
 
@@ -35,6 +33,8 @@
   <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" title="Vue.js" width="40" height="40"/>
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benbb96&layout=compact&hide=javascript,html&theme=dark" alt="benbb96" />
+
 ### My social networks
 
 <p align="left" style="background-color: #BBB">
@@ -47,5 +47,9 @@
   <a href="https://medium.com/@benbb96" target="blank" title="Medium"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@benbb96" height="30" width="30" /></a>
   <a href="https://www.youtube.com/c/benbb96" target="blank" title="Youtube"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="benbb96" height="30" width="30" /></a>
 </p>
+
+## My Holopin board
+
+[![@benbb96's Holopin board](https://holopin.io/api/user/board?user=benbb96)](https://holopin.io/@benbb96)
 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=benbb96" alt="Number of view of this profil" title="Number of view of this profil" /></p>
