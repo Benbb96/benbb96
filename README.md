@@ -14,23 +14,21 @@
 ### Technologies I use
 
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" title="Bootstrap" width="40" height="40"/>
-  <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" title="Chartjs" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" title="HTML 5" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css3" title="CSS 3" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" title="Javascript" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" title="Python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" title="Django" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" title="Vue.js" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" title="Bootstrap" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" title="Figma" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" title="Firebase" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" title="Flutter" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" title="HTML 5" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" title="Javascript" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" title="Jekyll" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" title="Linux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" title="Mariadb" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" title="MySQL" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" title="PHP" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" title="Python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" title="Vue.js" width="40" height="40"/>
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benbb96&layout=compact&hide=javascript,html&theme=dark" alt="Statistiques des langages utilisés par Benbb96" />
