@@ -3,13 +3,13 @@
 
 - 🔭 I’m working on [My personal website](https://github.com/Benbb96/benbb96-website)
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Vue.js** and **Vuetify**
 
 - 👨‍💻 All of my projects are available at [benbb96.com](https://www.benbb96.com)
 
 - 💬 Ask me about **Django**
 
-<img src="https://github-readme-stats.vercel.app/api?username=benbb96&show_icons=true&theme=dark" alt="benbb96" />
+<img src="https://github-readme-stats.vercel.app/api?username=benbb96&show_icons=true&theme=dark" alt="Statistiques Gthub de Benbb96" />
 
 ### Technologies I use
 
@@ -33,21 +33,21 @@
   <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" title="Vue.js" width="40" height="40"/>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benbb96&layout=compact&hide=javascript,html&theme=dark" alt="benbb96" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benbb96&layout=compact&hide=javascript,html&theme=dark" alt="Statistiques des langages utilisés par Benbb96" />
 
 ### My social networks
 
 <p align="left" style="background-color: #BBB">
-  <a href="https://dev.to/benbb96" title="My website" rel="me"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="benbb96" height="30" width="30" /></a>
-  <a href="https://travelpandas.fr/@benbb96" title="Mastodon" rel="me"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mastodon.svg" alt="benbb96" height="30" width="30" /></a>
-  <a href="https://twitter.com/benbb96" title="Twitter" rel="me"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="benbb96" height="30" width="30" /></a>
-  <a href="https://linkedin.com/in/benjamin-bernard-bouissières-9b1810a7" title="LinkedIn" rel="me"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="benjamin-bernard-bouissières-9b1810a7" height="30" width="30" /></a>
-  <a href="https://stackoverflow.com/users/8439435" title="StackOverflow" rel="me"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="8439435" height="30" width="30" /></a>
-  <a href="https://fb.com/benbb96" title="Facebook" rel="me"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="benbb96" height="30" width="30" /></a>
-  <a href="https://instagram.com/benbb96" title="Instagram" rel="me"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="benbb96" height="30" width="30" /></a>
-  <a href="https://medium.com/@benbb96" title="Medium" rel="me"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@benbb96" height="30" width="30" /></a>
-  <a href="https://www.youtube.com/c/benbb96" title="Youtube" rel="me"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="benbb96" height="30" width="30" /></a>
-  <a href="https://keybase.io/benbb96" title="Keybase" rel="me"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/keybase.svg" alt="benbb96" height="30" width="30" /></a>
+  <a href="https://dev.to/benbb96" title="My website"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="benbb96" height="30" width="30" /></a>
+  <a href="https://travelpandas.fr/@benbb96" title="Mastodon"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mastodon.svg" alt="benbb96" height="30" width="30" /></a>
+  <a href="https://twitter.com/benbb96" title="Twitter"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="benbb96" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/benjamin-bernard-bouissières-9b1810a7" title="LinkedIn"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="benjamin-bernard-bouissières-9b1810a7" height="30" width="30" /></a>
+  <a href="https://stackoverflow.com/users/8439435" title="StackOverflow"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="8439435" height="30" width="30" /></a>
+  <a href="https://fb.com/benbb96" title="Facebook"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="benbb96" height="30" width="30" /></a>
+  <a href="https://instagram.com/benbb96" title="Instagram"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="benbb96" height="30" width="30" /></a>
+  <a href="https://medium.com/@benbb96" title="Medium"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@benbb96" height="30" width="30" /></a>
+  <a href="https://www.youtube.com/c/benbb96" title="Youtube"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="benbb96" height="30" width="30" /></a>
+  <a href="https://keybase.io/benbb96" title="Keybase"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/keybase.svg" alt="benbb96" height="30" width="30" /></a>
 </p>
 
 ## My Holopin board
