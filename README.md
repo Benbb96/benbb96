@@ -38,14 +38,16 @@
 ### My social networks
 
 <p align="left" style="background-color: #BBB">
-  <a href="https://dev.to/benbb96" target="blank" title="My website"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="benbb96" height="30" width="30" /></a>
-  <a href="https://twitter.com/benbb96" target="blank" title="Twitter"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="benbb96" height="30" width="30" /></a>
-  <a href="https://linkedin.com/in/benjamin-bernard-bouissières-9b1810a7" target="blank" title="LinkedIn"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="benjamin-bernard-bouissières-9b1810a7" height="30" width="30" /></a>
-  <a href="https://stackoverflow.com/users/8439435" target="blank" title="StackOverflow"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="8439435" height="30" width="30" /></a>
-  <a href="https://fb.com/benbb96" target="blank" title="Facebook"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="benbb96" height="30" width="30" /></a>
-  <a href="https://instagram.com/benbb96" target="blank" title="Instagram"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="benbb96" height="30" width="30" /></a>
-  <a href="https://medium.com/@benbb96" target="blank" title="Medium"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@benbb96" height="30" width="30" /></a>
-  <a href="https://www.youtube.com/c/benbb96" target="blank" title="Youtube"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="benbb96" height="30" width="30" /></a>
+  <a href="https://dev.to/benbb96" target="_blank" title="My website" rel="me"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="benbb96" height="30" width="30" /></a>
+  <a href="https://travelpandas.fr/@benbb96" target="_blank" title="Mastodon" rel="me"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mastodon.svg" alt="benbb96" height="30" width="30" /></a>
+  <a href="https://twitter.com/benbb96" target="_blank" title="Twitter" rel="me"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="benbb96" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/benjamin-bernard-bouissières-9b1810a7" target="_blank" title="LinkedIn" rel="me"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="benjamin-bernard-bouissières-9b1810a7" height="30" width="30" /></a>
+  <a href="https://stackoverflow.com/users/8439435" target="_blank" title="StackOverflow" rel="me"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="8439435" height="30" width="30" /></a>
+  <a href="https://fb.com/benbb96" target="_blank" title="Facebook" rel="me"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="benbb96" height="30" width="30" /></a>
+  <a href="https://instagram.com/benbb96" target="_blank" title="Instagram" rel="me"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="benbb96" height="30" width="30" /></a>
+  <a href="https://medium.com/@benbb96" target="_blank" title="Medium" rel="me"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@benbb96" height="30" width="30" /></a>
+  <a href="https://www.youtube.com/c/benbb96" target="_blank" title="Youtube" rel="me"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="benbb96" height="30" width="30" /></a>
+  <a href="https://keybase.io/benbb96" target="_blank" title="Keybase" rel="me"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/keybase.svg" alt="benbb96" height="30" width="30" /></a>
 </p>
 
 ## My Holopin board
