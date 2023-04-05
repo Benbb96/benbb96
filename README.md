@@ -3,7 +3,7 @@
 
 - 🔭 I’m working on [My personal website](https://github.com/Benbb96/benbb96-website)
 
-- 🌱 I’m currently learning **Vue.js** and **Vuetify**
+- 🌱 I’m currently following the [Full Stack Open course](https://fullstackopen.com)
 
 - 👨‍💻 All of my projects are available at [benbb96.com](https://www.benbb96.com)
 
