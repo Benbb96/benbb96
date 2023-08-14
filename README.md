@@ -3,7 +3,7 @@
 
 - 🔭 I’m working on [My personal website](https://github.com/Benbb96/benbb96-website)
 
-- 🌱 I’m currently following the [Full Stack Open course](https://fullstackopen.com)
+- 🌱 I’m currently learning **Nest.js**
 
 - 👨‍💻 All of my projects are available at [benbb96.com](https://www.benbb96.com)
 
@@ -52,4 +52,4 @@
 
 [![@benbb96's Holopin board](https://holopin.io/api/user/board?user=benbb96)](https://holopin.io/@benbb96)
 
-<p align="right"><img src="https://komarev.com/ghpvc/?username=benbb96" alt="Number of view of this profil" title="Number of view of this profil" /></p>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=benbb96" alt="Number of view of my profil" title="Number of view of my profil" /></p>
