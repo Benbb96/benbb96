@@ -39,8 +39,10 @@
   ### 📊 GitHub Stats
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=benbb96&show_icons=true&theme=dark" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benbb96&layout=compact&hide=javascript,html&theme=dark" alt="Top Languages" />
+    <img src="https://streak-stats.demolab.com?user=benbb96&theme=dark" alt="GitHub Streak" />
+  </p>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=benbb96&theme=darkhub&no-frame=true&column=6" alt="GitHub Trophies" />
   </p>
 
   ---
