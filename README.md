@@ -35,6 +35,15 @@
   </p>
 
   ---
+
+  ### 📊 GitHub Stats
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=benbb96&show_icons=true&theme=dark" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benbb96&layout=compact&hide=javascript,html&theme=dark" alt="Top Languages" />
+  </p>
+
+  ---
   
   ### 🌐 Find me online
   
